@@ -14,6 +14,3 @@ class ACommandosGameMode : public AGameModeBase
 public:
 	ACommandosGameMode();
 };
-
-
-

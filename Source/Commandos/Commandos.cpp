@@ -3,7 +3,6 @@
 #include "Commandos.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Commandos, "Commandos" );
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, Commandos, "Commandos");
 
 DEFINE_LOG_CATEGORY(LogCommandos)
- 

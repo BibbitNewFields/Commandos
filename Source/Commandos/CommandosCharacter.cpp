@@ -47,5 +47,5 @@ ACommandosCharacter::ACommandosCharacter()
 
 void ACommandosCharacter::Tick(float DeltaSeconds)
 {
-    Super::Tick(DeltaSeconds);
+	Super::Tick(DeltaSeconds);
 }
