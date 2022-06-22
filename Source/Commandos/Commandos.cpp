@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright Bibbit New Fields. All Rights Reserved.
 
 #include "Commandos.h"
 #include "Modules/ModuleManager.h"
